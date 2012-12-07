@@ -3,7 +3,7 @@ Development challenge.
 
 You will be writing a JSON REST server in python that will allow CRUD functionallity for tracking project development time estimation. Data storage is up to you, but you must document any packages/requirements to get your server up and running.
 
-Data
+DATA
 ----
 
 The following data needs to be accessible:
@@ -67,7 +67,7 @@ GET PROJECT
 ```
     
 CREATE PROJECT
-______________
+--------------
 
 * `POST /projects` will create a new project from the parameters passed.
 
