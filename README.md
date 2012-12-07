@@ -36,7 +36,7 @@ GET PROJECTS
         "title":"Andromeda",
         "estimate":30,
         "start":1354601564,
-        "finish":,
+        "finish":"",
         "notes":""
     },
     {
