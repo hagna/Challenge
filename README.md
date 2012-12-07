@@ -19,10 +19,10 @@ The following data needs to be accessible:
 API
 ---
 
-* `create → POST
-* `read → GET 
-* `update → PUT
-* `delete → DELETE
+* `create → POST`
+* `read → GET`
+* `update → PUT`
+* `delete → DELETE`
 
 GET PROJECTS
 ------------
